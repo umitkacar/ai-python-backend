@@ -1,5 +1,10 @@
 # ai-python-deploymentai-python-deployment
 
+DESIGN PATTERN
+
+https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6
+
+
 BACKEND
 
 https://github.com/faif/python-patterns
