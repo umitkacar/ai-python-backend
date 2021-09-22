@@ -4,6 +4,8 @@ DESIGN PATTERN
 
 https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6
 
+https://en.wikipedia.org/wiki/Design_Patterns
+
 
 BACKEND
 
