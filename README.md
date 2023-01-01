@@ -20,3 +20,7 @@ https://lightning-flash.readthedocs.io/en/latest/reference/image_classification.
 TRICKS
 
 https://github.com/satwikkansal/wtfpython
+
+FASTAPI
+
+https://github.com/FourthBrain/FastAPI-for-Machine-Learning-Live-Demo/blob/main/ml.py
